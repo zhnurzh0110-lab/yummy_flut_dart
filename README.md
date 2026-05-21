@@ -1,46 +1,53 @@
-# 📱 Flutter Apprentice — Chapters 7–8
+# 📱 Flutter Apprentice
 
-This project is based on Chapters 7–8 of the *Flutter Apprentice* book.  
+This project is based on Flutter Yummy Final  
 It demonstrates navigation, routing, and passing data between screens in a Flutter app.
 
 ---
 
-## 🚀 Features
 
-- Multiple screen navigation
-- Named routes setup
+- Proper use of Clean Architecture,
+-  Riverpod,
+-  Dart linting rules
+- Successfull integration of Firebase, Drift, external APIs
 - Passing data between screens
 - Returning results from screens
 - Basic navigation stack handling
 
----
 
-## 🧠 What I Learned
-
-### 📌 Navigation (Chapter 7)
-- Using `Navigator.push` and `Navigator.pop`
-- Working with named routes
-- Managing screen transitions
-- Understanding the navigation stack
-
-### 📌 Data Passing (Chapter 8)
-- Sending arguments using routes
-- Receiving data in target screens
-- Returning data back to previous screen
-- Structuring clean and reusable screens
 
 ---
+Smart Task Manager
+Flutter application using Firebase, Drift and REST API
 
-## 📂 Project Structure
 
-```plaintext
-lib/
-│
-├── main.dart
-├── screens/
-│   ├── home_screen.dart
-│   ├── details_screen.dart
-│   └── ...
-├── models/
-├── widgets/
-└── routes.dart
+## Features
+
+- Authentication
+- Offline storage
+- API integration
+- Dark mode
+
+## Architecture
+
+Mention
+
+- Clean Architecture
+- Riverpod
+- Repository Pattern
+
+
+## Screenshots
+
+- Images
+
+Recommended Tech Stack
+
+
+- Feature
+- State Management
+- Navigation
+- API
+- Local DB
+- Backend
+- Architecture
